@@ -20,3 +20,10 @@ View the prototype here:
 ## Screenshots
 
 ### Home Screen
+![Home Screen](Screenshots/Home.png)
+
+### Features Screen
+![Features Screen](Screenshots/Home2.png)
+
+### Rewards Screen
+![Rewards Screen](Screenshots/Home3.png)
